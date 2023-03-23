@@ -12,7 +12,7 @@ export default {
 
 <template>
   <AppHeader></AppHeader>
-  asd
+  contenuto
   <AppFooter></AppFooter>
 </template>
 
